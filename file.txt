@@ -1,6 +1,6 @@
 //Reverse
 
-let arr = [1,2,3]
+let arr = "string"
 
 arr.reverse();
 
